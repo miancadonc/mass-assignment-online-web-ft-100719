@@ -1,3 +1,8 @@
 class Person
-  #your code here
+  
+  def initialize(attributes)
+    attributes.each do ||
+      
+    end
+  end
 end
